@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-08-11T18:18:37.268813200Z</date>
+  <millis>1628705917268</millis>
+  <nanos>813200</nanos>
+  <sequence>4</sequence>
+  <logger>com.w2m.superheroes.controller.HeroeController</logger>
+  <level>INFO</level>
+  <class>com.w2m.superheroes.timerLog.AspectoLog</class>
+  <method>around</method>
+  <thread>28</thread>
+  <message>{}: {}: start...com.w2m.superheroes.controller.HeroeControllermodificarHeroe</message>
+</record>
+<record>
+  <date>2021-08-11T18:18:37.309886Z</date>
+  <millis>1628705917309</millis>
+  <nanos>886000</nanos>
+  <sequence>5</sequence>
+  <logger>com.w2m.superheroes.controller.HeroeController</logger>
+  <level>INFO</level>
+  <class>com.w2m.superheroes.timerLog.AspectoLog</class>
+  <method>around</method>
+  <thread>28</thread>
+  <message>{}: {}: : end... cost time: {} mscom.w2m.superheroes.controller.HeroeControllermodificarHeroe41</message>
+</record>
+<record>
+  <date>2021-08-11T18:18:53.423470500Z</date>
+  <millis>1628705933423</millis>
+  <nanos>470500</nanos>
+  <sequence>6</sequence>
+  <logger>com.w2m.superheroes.controller.HeroeController</logger>
+  <level>INFO</level>
+  <class>com.w2m.superheroes.timerLog.AspectoLog</class>
+  <method>around</method>
+  <thread>29</thread>
+  <message>{}: {}: start...com.w2m.superheroes.controller.HeroeControllerobtenerHeroes</message>
+</record>
+<record>
+  <date>2021-08-11T18:18:53.533408700Z</date>
+  <millis>1628705933533</millis>
+  <nanos>408700</nanos>
+  <sequence>7</sequence>
+  <logger>com.w2m.superheroes.controller.HeroeController</logger>
+  <level>INFO</level>
+  <class>com.w2m.superheroes.timerLog.AspectoLog</class>
+  <method>around</method>
+  <thread>29</thread>
+  <message>{}: {}: : end... cost time: {} mscom.w2m.superheroes.controller.HeroeControllerobtenerHeroes110</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-08-11T18:20:37.837107500Z</date>
+  <millis>1628706037837</millis>
+  <nanos>107500</nanos>
+  <sequence>4</sequence>
+  <logger>com.w2m.superheroes.controller.HeroeController</logger>
+  <level>INFO</level>
+  <class>com.w2m.superheroes.timerLog.AspectoLog</class>
+  <method>around</method>
+  <thread>28</thread>
+  <message>Information message 111</message>
+</record>
+<record>
+  <date>2021-08-11T18:20:37.839107600Z</date>
+  <millis>1628706037839</millis>
+  <nanos>107600</nanos>
+  <sequence>5</sequence>
+  <logger>com.w2m.superheroes.controller.HeroeController</logger>
+  <level>INFO</level>
+  <class>com.w2m.superheroes.timerLog.AspectoLog</class>
+  <method>around</method>
+  <thread>28</thread>
+  <message>{}: {}: start...com.w2m.superheroes.controller.HeroeControllerobtenerHeroes</message>
+</record>
+<record>
+  <date>2021-08-11T18:20:37.959057800Z</date>
+  <millis>1628706037959</millis>
+  <nanos>57800</nanos>
+  <sequence>6</sequence>
+  <logger>com.w2m.superheroes.controller.HeroeController</logger>
+  <level>INFO</level>
+  <class>com.w2m.superheroes.timerLog.AspectoLog</class>
+  <method>around</method>
+  <thread>28</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2021-08-11T18:20:37.959057800Z</date>
+  <millis>1628706037959</millis>
+  <nanos>57800</nanos>
+  <sequence>7</sequence>
+  <logger>com.w2m.superheroes.controller.HeroeController</logger>
+  <level>INFO</level>
+  <class>com.w2m.superheroes.timerLog.AspectoLog</class>
+  <method>around</method>
+  <thread>28</thread>
+  <message>{}: {}: : end... cost time: {} mscom.w2m.superheroes.controller.HeroeControllerobtenerHeroes122</message>
+</record>
